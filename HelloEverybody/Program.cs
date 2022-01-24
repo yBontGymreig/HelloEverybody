@@ -7,6 +7,7 @@ namespace HelloEverybody
         static void Main(string[] args)
         {
             Console.WriteLine("Hello everyone!");
+            my_var = input("Type something")
         }
     }
 }
